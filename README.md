@@ -1,6 +1,6 @@
 # jetson_setup
 
-The following commands were tested on Jetson Xavier Nx.
+The following commands were tested on Jetson Xavier Nx with Ubuntu 20.04.
 
 ## CUDA, CUDNN, TensorRT
 ```sh
