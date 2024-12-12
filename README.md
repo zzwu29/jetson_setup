@@ -26,3 +26,8 @@ sudo -H pip3 install -U jetson-stats
 # launch
 sudo jtop
 ```
+
+## coding tool
+```sh
+sudo apt install cmake git curl net-tools terminator
+```
