@@ -34,6 +34,7 @@ sudo apt install cmake git curl net-tools terminator
 mkdir ~/.config/terminator
 gedit ~/.config/terminator/config
 
+# add to config
 [global_config]
   title_font = Ubuntu Mono 11[keybindings]
 [keybindings]
@@ -57,7 +58,6 @@ gedit ~/.config/terminator/config
     foreground_color = "#e0f0f1"
     show_titlebar = False
     use_system_font = False
-
 ```
 
 ## ROS
