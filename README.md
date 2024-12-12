@@ -30,6 +30,34 @@ sudo jtop
 ## coding tool
 ```sh
 sudo apt install cmake git curl net-tools terminator
+
+mkdir ~/.config/terminator
+gedit ~/.config/terminator/config
+
+[global_config]
+  title_font = Ubuntu Mono 11[keybindings]
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      size = 1200, 600
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#002b36"
+    background_darkness = 0.91
+    background_image = None
+    background_type = transparent
+    font = Ubuntu Mono 15
+    foreground_color = "#e0f0f1"
+    show_titlebar = False
+    use_system_font = False
+
 ```
 
 ## ROS
