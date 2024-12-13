@@ -60,6 +60,8 @@ gedit ~/.config/terminator/config
     use_system_font = False
 ```
 
+VSCODE v1.65.2 [link](https://vscode.download.prss.microsoft.com/dbazure/download/stable/c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1/code_1.65.2-1646922911_arm64.deb)
+
 ## ROS
 ```sh
 # Setup your computer to accept software from packages.ros.org.
