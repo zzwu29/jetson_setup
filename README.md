@@ -2,6 +2,11 @@
 
 The following commands were tested on Jetson Xavier Nx with Ubuntu 20.04.
 
+## jetpack version
+```sh
+sudo apt-cache show nvidia-jetpack
+```
+
 ## CUDA, CUDNN, TensorRT
 ```sh
 sudo apt install nvidia-jetpack
