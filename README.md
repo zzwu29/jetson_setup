@@ -34,6 +34,10 @@ sudo jtop
 ## Pytorch
 [https://forums.developer.nvidia.com/t/pytorch-for-jetson/72048](https://forums.developer.nvidia.com/t/pytorch-for-jetson/72048)
 
+## Tensor RT
+[https://docs.nvidia.com/deeplearning/tensorrt/archives/index.html](https://docs.nvidia.com/deeplearning/tensorrt/archives/index.html)
+
+
 ## coding tool
 ```sh
 sudo apt install cmake git curl net-tools terminator
