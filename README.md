@@ -26,6 +26,8 @@ sudo -H pip3 install -U jetson-stats
 # launch
 sudo jtop
 ```
+## Pytorch
+[https://forums.developer.nvidia.com/t/pytorch-for-jetson/72048](https://forums.developer.nvidia.com/t/pytorch-for-jetson/72048)
 
 ## coding tool
 ```sh
