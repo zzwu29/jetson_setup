@@ -37,6 +37,9 @@ sudo jtop
 ## Tensor RT
 [https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html](https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html)
 
+## torch2trt
+[https://nvidia-ai-iot.github.io/torch2trt/master/getting_started.html](https://nvidia-ai-iot.github.io/torch2trt/master/getting_started.html)
+
 ## coding tool
 ```sh
 sudo apt install cmake git curl net-tools terminator
