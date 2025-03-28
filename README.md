@@ -1,6 +1,6 @@
 # jetson_setup
 
-The following commands were tested on Jetson Xavier Nx with Ubuntu 20.04.
+The following commands were tested on Jetson Orin/Xavier Nx with Ubuntu 20.04.
 
 ## jetpack version
 ```sh
