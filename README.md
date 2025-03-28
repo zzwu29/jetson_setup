@@ -93,3 +93,9 @@ sudo apt install python3-rosdep
 sudo rosdep init
 rosdep update
 ```
+
+## NoMachine
+[https://downloads.nomachine.com/linux/?id=30&distro=Arm](https://downloads.nomachine.com/linux/?id=30&distro=Arm)
+
+## QGroundControl
+[https://github.com/sidharthmohannair/Installing-QGroundControl-on-Ubuntu-ARM64-using-Flatpak](https://github.com/sidharthmohannair/Installing-QGroundControl-on-Ubuntu-ARM64-using-Flatpak)
